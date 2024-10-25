@@ -1,0 +1,532 @@
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.StaticWebAssets.xml
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.exe
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.deps.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.dev.json
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.pdb
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfoInputs.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfo.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CoreCompileInputs.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.input.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.output.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorCoreGenerate.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CopyComplete
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.Manifest.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.xml
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.pdb
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.genruntimeconfig.cache
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\Index.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\myLayout.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\views.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Welcome.cshtml.g.cs
+C:\Users\SAMA\source\repos\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.AssemblyReference.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.StaticWebAssets.xml
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.exe
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.deps.json
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.json
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.dev.json
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.pdb
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.AssemblyReference.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfoInputs.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfo.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CoreCompileInputs.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.Manifest.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.xml
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Apriori-Algo.styles.css
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.input.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.output.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorCoreGenerate.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\Index.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\views.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Welcome.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\myLayout.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cache
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cs
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CopyComplete
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.dll
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.pdb
+C:\Users\SAMA\Desktop\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.genruntimeconfig.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\appsettings.json
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.StaticWebAssets.xml
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.exe
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll.config
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.deps.json
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.json
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.runtimeconfig.dev.json
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.pdb
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Accord.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.AssemblyReference.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfoInputs.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.AssemblyInfo.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CoreCompileInputs.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorAssemblyInfo.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.Manifest.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\staticwebassets\Apriori-Algo.StaticWebAssets.xml
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Apriori-Algo.styles.css
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.input.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.TagHelpers.output.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorCoreGenerate.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\Index.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Apriori\views.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Welcome.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\myLayout.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cache
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.RazorTargetAssemblyInfo.cs
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.Views.pdb
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.csproj.CopyComplete
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.dll
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.pdb
+E:\projects\Apriori Project\Code & langs\Apriori-Algo\Apriori-Algo\obj\Debug\netcoreapp3.1\Apriori-Algo.genruntimeconfig.cache

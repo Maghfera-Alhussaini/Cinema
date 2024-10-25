@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+<body >
+    <div>
+        <!-- menu -->
+        <nav>
+            <ul>
+                <li><a asp-action="Welcome" asp-controller="Movies" >Welcome</a></li>
+                <li><a asp-action="Index" asp-controller="Movies">Manage Movies</a></li>
+                <li><a asp-action="views" asp-controller="Apriori">Views</a></li>
+                <li><a asp-action="Index" asp-controller="Apriori">Movie Suggestion</a></li>
+
+            </ul>
+            <center>    <img src="~/uploads/casual-life-3d-popcorn-bowl.png" style="width:150px; margin-top:100% " /></center>
+        </nav>
+
+        <!-- main article -->
+        <article>
+
+            @RenderBody()
+        </article>
+
+
+
+
+
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

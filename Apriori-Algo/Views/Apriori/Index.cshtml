@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/myLayout.cshtml";
+}
+
+
+
+
+<link rel="stylesheet" href="~/css/view.css" />
+<h1 style="color:black; text-shadow:1px 1px 1px pink; text-decoration:line-through; text-decoration-thickness:1px; font-size:40px">Movie Suggestions</h1>
+
+ <div class="container">
+     <div class="row">
+         <div class="col-lg-6">
+             <center>
+                 <div class="contact-us">
+                     @using (Html.BeginForm("Index", "Apriori", FormMethod.Post))
+                     {
+                         <div>
+                             <label style="float: left; color: #95a4ff">Support :</label>
+                             <input type="number" name="support" id="support" value="0.01" step="0.01" />
+                         </div>
+                         <div>
+                             <label style="float: left; color: #95a4ff ">Confidence :</label>
+                             <input type="number" name="confidence" id="confidence" value="0.03" step="0.01" />
+                         </div>
+                         <div>
+                             <button type="submit">Excute Apriori</button>
+                         </div>
+                     }
+                 </div>
+             </center>
+         </div>
+         <div class="col-lg-6">
+             <section>
+                 <!--for demo wrap-->
+                 <h1>Result</h1>
+                 <div class="tbl-header">
+                     <table cellpadding="0" cellspacing="0" border="0">
+                         <thead>
+                             <tr>
+                                 <th><center>Antecedent</center></th>
+                                 <th><center>Consequent</center></th>
+                                 <th><center>Confidence</center></th>
+
+                             </tr>
+                         </thead>
+                     </table>
+                 </div>
+                 <div class="tbl-content">
+                     <table cellpadding="0" cellspacing="0" border="0">
+                         <tbody>
+                             @foreach (var rule in ViewBag.Rules)
+                             {
+                                 <tr>
+                                     <td><center>@rule.Antecedent</center></td>
+                                     <td><center>@rule.Consequent</center></td>
+                                     <td><center>@rule.ConfidenceValue</center></td>
+
+                                 </tr>
+                             }
+
+                         </tbody>
+                     </table>
+                 </div>
+             </section>
+
+         </div>
+     </div>
+ </div>
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+       

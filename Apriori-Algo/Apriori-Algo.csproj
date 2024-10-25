@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-Apriori_Algo-F2D33AD6-C73A-42F2-A057-AD0C85657887</UserSecretsId>
+    <RootNamespace>Apriori_Algo</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20230520012326_csv.cs" />
+    <Compile Remove="Migrations\20230520012326_csv.Designer.cs" />
+    <Compile Remove="Migrations\20230520020635_csv.cs" />
+    <Compile Remove="Migrations\20230520020635_csv.Designer.cs" />
+    <Compile Remove="Migrations\20230602091830_insert.cs" />
+    <Compile Remove="Migrations\20230602091830_insert.Designer.cs" />
+    <Compile Remove="Migrations\20230602094445_insert.cs" />
+    <Compile Remove="Migrations\20230602094445_insert.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.32" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+</Project>

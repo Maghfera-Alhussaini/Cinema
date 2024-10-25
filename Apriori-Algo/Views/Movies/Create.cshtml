@@ -1,0 +1,37 @@
+﻿@model Apriori_Algo.Models.Movie
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/myLayout.cshtml";
+}
+
+
+
+<link rel="stylesheet" href="~/css/view.css" />
+<h1>Add New Movie</h1>
+<center>
+    <div class="contact-us">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Name" class="form-control" placeholder="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+
+            <input asp-for="Type" class="form-control" placeholder="Type" />
+            <span asp-validation-for="Type" class="text-danger"></span>
+
+            <input type="submit" value="Add Movie" class="btn" /><br />
+            <a asp-action="Index" class="btn">Back to List</a>
+        </form>
+    </div>
+</center>
+
+
+
+
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
